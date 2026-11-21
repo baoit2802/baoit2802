@@ -2,10 +2,6 @@
 
 ### ☁️ Aspiring Cloud Engineer | Networking & Linux
 
-I'm an IT student with a foundation in **Computer Networking and Linux**, currently learning **Cloud Computing and Infrastructure Automation**.
-
-My goal is to become a **Cloud Engineer**, focusing on building, managing, and automating reliable cloud infrastructure.
-
 ## 🛠️ Technical Skills
 
 ### 🌐 Networking
@@ -62,6 +58,3 @@ My goal is to become a **Cloud Engineer**, focusing on building, managing, and a
 - Prepare for AWS Certified Solutions Architect – Associate
 - Pursue a Cloud Engineer Internship Opportunity
 
----
-
-☁️ *Building my path to becoming a Cloud Engineer, one step at a time.*
