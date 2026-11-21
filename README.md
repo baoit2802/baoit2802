@@ -1,77 +1,67 @@
 # Hi there! I'm Bảo Thiên 👋
 
-### ☁️ Aspiring Cloud Engineer | Networking & Linux Enthusiast
+### ☁️ Aspiring Cloud Engineer | Networking & Linux
 
-I'm an IT student passionate about **Cloud Computing, Networking, Linux, and Infrastructure Automation**.
+I'm an IT student with a foundation in **Computer Networking and Linux**, currently learning **Cloud Computing and Infrastructure Automation**.
 
-I have a foundation in computer networking and Linux system administration. Currently, I'm expanding my knowledge of **Amazon Web Services (AWS)** and learning how to design, deploy, secure, and automate cloud infrastructure.
+My goal is to become a **Cloud Engineer**, focusing on building, managing, and automating reliable cloud infrastructure.
 
-My goal is to become a **Cloud Engineer**, building reliable, scalable, and secure cloud environments.
+## 🛠️ Technical Skills
 
-### 🛠️ Technical Skills
+### 🌐 Networking
 
-**🌐 Networking**
 - TCP/IP, TCP/UDP, DNS, DHCP
-- Routing & Switching, VLAN, NAT
+- Routing & Switching
+- VLAN, NAT, Subnetting
 - Network Configuration & Troubleshooting
 - Cisco Packet Tracer, GNS3
 
-**🐧 Linux**
-- Linux Fundamentals & Command Line
-- File Systems, Users, Groups & Permissions
-- Basic System Administration
+### 🐧 Linux
+
+- Linux Command Line
+- File Systems & Permissions
+- User & Group Management
+- Basic Linux System Administration
 - Network Configuration & Troubleshooting
 
-**☁️ Cloud & Infrastructure — Currently Learning**
+### 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### ☁️ Cloud & Infrastructure (Currently Learning)
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
 
-- AWS Fundamentals: IAM, VPC, EC2, S3
-- AWS Security & Monitoring
+- AWS Core Services: EC2, VPC, S3, IAM
+- Cloud Networking & Infrastructure
 - Infrastructure as Code (Terraform)
-- Cloud Infrastructure Automation
+- Cloud Monitoring & Resource Management
 
-**💻 Programming & Scripting**
+### 🔧 Tools & Software
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-
-**🔧 Tools & Platforms**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 
-### 🚀 Projects
+## 📚 Currently Learning
 
-**🛡️ AWS Automated Threat Detection & Response Platform — In Progress**
+- ☁️ Amazon Web Services (AWS)
+- 🏗️ Cloud Infrastructure Design & Deployment
+- ⚙️ Infrastructure as Code with Terraform
+- 🐧 Linux System Administration
+- 🐳 Docker & Containerization
+- 🔄 CI/CD Fundamentals
 
-Building a cloud security project focused on detecting and automatically responding to security threats in AWS.
+## 🎯 Career Goals
 
-- AWS CloudTrail & Amazon EventBridge
-- AWS Lambda for threat detection and response
-- AWS IAM & VPC security
-- Terraform for infrastructure provisioning
-- Amazon CloudWatch for monitoring
-
-### 🎯 Current Learning Goals
-
-- Strengthen Linux Administration & Networking Skills
-- Build Hands-on Projects with AWS
-- Practice Infrastructure as Code with Terraform
-- Learn Cloud Security & Monitoring
-- Explore CI/CD and DevOps Fundamentals
+- Strengthen Networking & Linux Administration Skills
+- Gain Hands-on Experience with AWS
+- Learn Infrastructure Automation with Terraform
+- Explore Docker and CI/CD
 - Prepare for AWS Certified Solutions Architect – Associate
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baoit2802&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baoit2802&layout=compact&theme=tokyonight)
+- Pursue a Cloud Engineer Internship Opportunity
 
 ---
 
-☁️ *Learning, building, and growing one cloud project at a time.*
+☁️ *Building my path to becoming a Cloud Engineer, one step at a time.*
